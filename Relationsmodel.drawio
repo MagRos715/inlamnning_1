@@ -31,7 +31,7 @@
             <mxPoint x="490" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1&lt;/font&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6Gk8_tGEDLeu0DplyoTS-10">
+        <mxCell id="6Gk8_tGEDLeu0DplyoTS-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1&lt;/font&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));" connectable="0" vertex="1" parent="6Gk8_tGEDLeu0DplyoTS-10">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-6" y="12" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="490" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;N&lt;/font&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6Gk8_tGEDLeu0DplyoTS-12">
+        <mxCell id="6Gk8_tGEDLeu0DplyoTS-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;N&lt;/font&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));" connectable="0" vertex="1" parent="6Gk8_tGEDLeu0DplyoTS-12">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-4" y="2" as="offset" />
           </mxGeometry>
@@ -75,13 +75,13 @@
             <mxPoint x="8" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-29" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Information&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="6Gk8_tGEDLeu0DplyoTS-29" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Cardinality&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="100" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Entity&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#CCFFCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="120" y="414" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-31" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Relation&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="6Gk8_tGEDLeu0DplyoTS-31" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Relationship&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="120" y="428" width="100" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-39" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Not universal relation&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));rotation=-45;" vertex="1" parent="1">
@@ -112,7 +112,7 @@
         </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-55" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1&lt;/font&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="6Gk8_tGEDLeu0DplyoTS-54">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="8" y="1" as="offset" />
+            <mxPoint x="-3" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-56" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Universal relation&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));rotation=-45;" vertex="1" parent="1">
