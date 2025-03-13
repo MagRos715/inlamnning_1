@@ -268,7 +268,7 @@
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-92" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Amount&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#CCFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-93" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Price&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#CCFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="6Gk8_tGEDLeu0DplyoTS-93" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Order_line_price&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#CCFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-96" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Order_total&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#CCFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
