@@ -281,12 +281,6 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-104" value="Has" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="271" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6Gk8_tGEDLeu0DplyoTS-109" value="Has" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="410" y="200" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="6Gk8_tGEDLeu0DplyoTS-115" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Foreign key&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="223" y="429" width="100" height="10" as="geometry" />
         </mxCell>
@@ -341,9 +335,9 @@
             <mxPoint x="291.21320343559637" y="246.78679656440363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXR9WwdYxUWgojTBUDLf-5" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="6Gk8_tGEDLeu0DplyoTS-104" target="6Gk8_tGEDLeu0DplyoTS-3">
+        <mxCell id="DXR9WwdYxUWgojTBUDLf-5" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="6Gk8_tGEDLeu0DplyoTS-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="290" as="sourcePoint" />
+            <mxPoint x="271" y="300" as="sourcePoint" />
             <mxPoint x="400" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -354,6 +348,12 @@
         </mxCell>
         <mxCell id="DXR9WwdYxUWgojTBUDLf-7" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Universal relation&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="243" y="263" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DXR9WwdYxUWgojTBUDLf-9" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DXR9WwdYxUWgojTBUDLf-10" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
